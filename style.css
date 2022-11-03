@@ -6,4 +6,30 @@
 }
 body{
     background-color: #f9ffd2;
+height: 100vh;
+width: 100vw;
+
+}
+.banner{
+    height: 60%;
+    width: 65%;
+    background-image: url("https://www.adac.de/-/media/images/touristik/staedte/muenchen-1912-926x383.jpg?bc=white&as=0&mh=315&mw=762&hash=F582E2E778ED6BACAE824F7A08320FF2");
+background-size: cover;
+background-position: right;
+margin: 0 auto 100px;
+position: relative;
+}
+.banner p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+    background-color: #FFAD32;
+
+position: absolute;
+bottom: 50px;
+margin-left: 4%;
+
 }
