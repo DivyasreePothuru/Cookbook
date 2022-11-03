@@ -56,12 +56,39 @@ main{
 }
  .pic{ 
     height: 40%;
-   background-image: url("https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235");
+   
 background-position: center;
 background-size: cover;
 border-radius: 5px 5px 0 0;
 overflow: hidden;
 
+}
+.a{
+    background-image: url("https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235");
+}
+.b{
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/08/9b/e6/76/lo-studente.jpg");
+}
+.c{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/18/4d/1c/d5/la-kaz-a-lea.jpg');
+}
+.d{
+    background-image: url('https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235');
+}
+.e{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/08/9b/e6/76/lo-studente.jpg');
+}
+.f{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/18/4d/1c/d5/la-kaz-a-lea.jpg');
+}
+.g{
+    background-image: url('https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235');
+}
+.h{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/08/9b/e6/76/lo-studente.jpg');
+}
+.i{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/18/4d/1c/d5/la-kaz-a-lea.jpg');
 }
 
 .card-content{
